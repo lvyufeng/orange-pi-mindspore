@@ -1,0 +1,3 @@
+[submodule "llm/uie"]
+	path = llm/uie
+	url = https://github.com/lvyufeng/uie_mindspore
