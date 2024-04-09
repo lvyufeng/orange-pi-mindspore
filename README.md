@@ -42,3 +42,9 @@ For LLM:
 cd uie
 python uie_predictor.py -m uie-base --use_fp16 -g
 ```
+
+If your available memory is not enought, use this command:
+
+```
+bash free_mem.sh
+```
